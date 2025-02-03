@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 22964dc5a0844b942a15a63200940742
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179168
+  packageName: Futuristic Weapons FiringFX with Sounds
+  packageVersion: 1.04
+  assetPath: Assets/Futuristic Weapons FiringFX with Sounds/Shaders_Scripts/SH_Waves.shader
+  uploadId: 492080

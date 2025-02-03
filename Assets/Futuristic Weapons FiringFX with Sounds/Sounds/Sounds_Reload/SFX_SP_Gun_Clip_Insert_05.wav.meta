@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 48542396398fe5344964c13a118c454f
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179168
+  packageName: Futuristic Weapons FiringFX with Sounds
+  packageVersion: 1.04
+  assetPath: Assets/Futuristic Weapons FiringFX with Sounds/Sounds/Sounds_Reload/SFX_SP_Gun_Clip_Insert_05.wav
+  uploadId: 492080

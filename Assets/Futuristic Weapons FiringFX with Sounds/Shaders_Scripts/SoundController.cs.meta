@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ee8f8eaf01f638b4888a0835271f2588
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179168
+  packageName: Futuristic Weapons FiringFX with Sounds
+  packageVersion: 1.04
+  assetPath: Assets/Futuristic Weapons FiringFX with Sounds/Shaders_Scripts/SoundController.cs
+  uploadId: 492080

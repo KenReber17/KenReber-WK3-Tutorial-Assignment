@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bb981da597fe0094e81b0935212b53bc
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Lightning_Main_02: {fileID: 2800000, guid: 93b9a644d19c1d34c9ddb27b4c84f2e5,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179168
+  packageName: Futuristic Weapons FiringFX with Sounds
+  packageVersion: 1.04
+  assetPath: Assets/Futuristic Weapons FiringFX with Sounds/Shaders_Scripts/SH_Lightning_Strike.shader
+  uploadId: 492080
